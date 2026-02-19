@@ -1,4 +1,4 @@
-# Coffee-Shop-Sales-Dashboard-Analysis
+# Coffee-Shop-Sales-Analysis
 Project Overview
 
 This project presents an interactive Coffee Shop Sales Dashboard designed to analyze revenue, footfall, product performance, and order patterns.
